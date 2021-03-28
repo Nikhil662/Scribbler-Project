@@ -1,0 +1,67 @@
+.container {
+  position: relative;
+  width: 100%;
+  max-width: 400px;
+}
+
+.container img {
+  width: 100%;
+  height: auto;
+}
+
+.container .btn {
+  position: absolute;
+  top: 43%;
+  left: 203%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: #EAC117;
+  color: black;
+  font-size: 16px;
+  padding: 14px 22px;
+  border: white;
+  cursor: pointer;
+  text-align: center;
+}
+.container .btn1{
+  position: absolute;
+  top: 43%;
+  left: 170%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: #EAC117;
+  color: black;
+  font-size: 16px;
+  padding: 14px 22px;
+  border: white;
+  cursor: pointer;
+  text-align: center;
+}
+.container .btn2{
+  position: absolute;
+  top: 4%;
+  left: 337%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: #1742EB;
+  color: white;
+  font-size: 16px;
+  padding: 15px 24px;
+  border: white;
+  cursor: pointer;
+  text-align: center;
+}
+.container .btn3{
+  position: absolute;
+  top: 4%;
+  left: 365%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: #1742EB;
+  color: white;
+  font-size: 16px;
+  padding: 15px 24px;
+  border: white;
+  cursor: pointer;
+  text-align: center;
+}
